@@ -2,4 +2,4 @@
 
 Software installation script
 
-All nessery script for installing software.
+All necessary script for installing software.
