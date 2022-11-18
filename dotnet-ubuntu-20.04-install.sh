@@ -6,3 +6,4 @@ sudo apt install -y dotnet-sdk-6.0
 sudo apt update && \
 sudo apt install -y aspnetcore-runtime-6.0
 sudo apt install -y dotnet-runtime-6.0
+dotnet tool install -g dotnet-script
