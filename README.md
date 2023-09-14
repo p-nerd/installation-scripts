@@ -1,5 +1,3 @@
-# installation-scripts
+# installation_scripts
 
-Software installation script
-
-All necessary script for installing software.
+Scripts for installing various software and tools on ubuntu-based system
